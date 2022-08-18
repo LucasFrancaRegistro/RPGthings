@@ -1,0 +1,45 @@
+FOR 15
+DES 10
+CON 14
+APA 12
+INT 9
+EDU 6
+POD 12
+TAM 18
+
+HP: 16
+MOV: 8metros
+CORPO: 2 +6
+
+DB: 1d6
+SAN: 60
+PI: 
+54(0) -13 -12 -10 -5 -4 -10 -5
+Acrobacia - 5 
+Armas de fogo leves - 5 
+Armas de fogo pesadas - 9 4 +5
+Brigar - 18 5 +13
+Carisma - 16 4 +12
+Encontrar - 6 
+Explosivos - 3 
+Conhecimentos acadêmicos - 3 
+Consertos eletrônicos - 2 
+Consertos mecânicos - 5 
+Dirigir Automóveis - 4 
+Esquiva - 10 5 +5 
+Lábia - 7 3 +4 
+Furtividade - 5 
+Intimidação - 14 4 +10
+Medicina - 4
+Metáforar - 4 
+Ocultismo - 1 
+Primeiros socorros - 6 
+Pilotar - 1 
+Tecnologia - 5
+
+inventario:
+esmeralda
+3 cogumelos 1d6+3hp
+
+
+
