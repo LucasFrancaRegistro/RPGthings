@@ -10,6 +10,7 @@ TAM 18
 HP: 16
 MOV: 8metros
 CORPO: 2 +6
+armadura: 5
 
 DB: 1d6
 SAN: 60
@@ -40,6 +41,9 @@ Tecnologia - 5
 inventario:
 esmeralda
 3 cogumelos 1d6+3hp
+machado D12+1+DB
+
+faca Bellbatcher 1D6+2 durante o dia. Durante a noite o dano natural é de 1d8+2 pode ser impulsionado usando 1 de PI para +1d4 de dano, podendo chegar até 5D4 de dano adicional. Cada ataque usado com essa arma de noite, causa 1d4+2 de dano de sanidade no usuário, um teste de sanidade bem sucedido divide o dano pela metade.
 
 
 
