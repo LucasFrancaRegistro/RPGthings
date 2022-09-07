@@ -1,18 +1,20 @@
-FOR 15
+FOR 17
 DES 10
-CON 14
+CON 16
 APA 12
 INT 9
 EDU 6
 POD 12
-TAM 18
+TAM 20
 
-HP: 16
+nivel: 2
+HP: 22 +1 por turno
 MOV: 8metros
-CORPO: 2 +6
+CORPO: 2 +6 
+armadura passiva: 5
 armadura: 5
 
-DB: 1d6
+DB: 1d6 +1d8
 SAN: 60
 PI: 
 54(0) -13 -12 -10 -5 -4 -10 -5
@@ -41,9 +43,17 @@ Tecnologia - 5
 inventario:
 esmeralda
 3 cogumelos 1d6+3hp
-machado D12+1+DB
+machado esmeralda 1d12+2+2db
 
-faca Bellbatcher 1D6+2 durante o dia. Durante a noite o dano natural é de 1d8+2 pode ser impulsionado usando 1 de PI para +1d4 de dano, podendo chegar até 5D4 de dano adicional. Cada ataque usado com essa arma de noite, causa 1d4+2 de dano de sanidade no usuário, um teste de sanidade bem sucedido divide o dano pela metade.
+Fé blindada: O usuário ganha 4 de armadura passiva e pode gastar 2 pontos de PE para adicionar +20 de armadura durante todo o combate.
 
+maldição lancinante:
+gastar 1 de pe para ganhar 1d8 de danos bonus até 5d8
+
+maldição pujança:
+ganha +2 em for, con e tam
+
+malidção ódio de mordrom:
++5 de armadura passiva
 
 
